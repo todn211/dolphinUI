@@ -5,6 +5,9 @@ import java.io.IOException;
 import javax.servlet.jsp.JspException;
 import javax.servlet.jsp.tagext.SimpleTagSupport;
 
+/**
+ * master∑÷÷ß
+ */
 public class Hgitem extends SimpleTagSupport {
 	private String label;
 	
